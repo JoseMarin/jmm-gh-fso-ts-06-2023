@@ -1,0 +1,19 @@
+{
+  "name": "jmm-gh-fso-ts-06-2023",
+  "version": "0.1.0",
+  "description": "Ejemplo de npm y TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "js",
+    "ts"
+  ],
+  "author": "Jose Marín",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
