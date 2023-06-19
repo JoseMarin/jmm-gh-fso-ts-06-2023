@@ -14,6 +14,7 @@
   "author": "Jose Marín",
   "license": "MIT",
   "dependencies": {
-    "axios": "^1.4.0"
+    "axios": "^1.4.0",
+    "typescript": "^5.1.3"
   }
 }
